@@ -1,0 +1,6 @@
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.csproj.AssemblyReference.cache
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.MainForm.resources
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.Properties.Resources.resources
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.csproj.GenerateResource.cache
+C:\Users\nempe\Desktop\SoftwareSolution\obj\Debug\SoftwareSolution.csproj.CoreCompileInputs.cache
